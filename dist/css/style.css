@@ -1,0 +1,19 @@
+.p-con{
+    background-color: white;
+    box-shadow: inset 0px 0px 0px 0px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+    border-radius: 0.55rem;
+    border:  3px solid white;
+}
+
+
+  .form-row{
+      background-color: rgb(255, 255, 255);
+      color: black;
+  }
+  .form-text, h1, p {
+  font-weight: 900;
+  }
+  
+  .form-text, h1 {
+      font-family: 'Great Vibes', cursive;
+  }
