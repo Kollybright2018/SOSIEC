@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <?php require ('inc/head.php'); ?>
+  <?php require ('inc/head_.php'); ?>
   <title>Welcome To SOSIEC</title>
 </head>
 

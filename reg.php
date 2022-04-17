@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 
-  <?php require ('inc/head.php'); ?>
+<?php require ('inc/head_.php'); ?>
+  
   <title>Register</title>
 </head>
 
@@ -165,7 +166,7 @@ if (con_password.value.trim()=='') {
    return false
 }
 
-
+return true
 }
 
 

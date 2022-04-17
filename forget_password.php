@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-
-  <?php require ('inc/head.php'); ?>
+<head> 
+<?php require ('inc/head_.php'); ?>
   <title>Forget Password</title>
 </head>
 <style>
